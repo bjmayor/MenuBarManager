@@ -12,6 +12,7 @@
 		A1234567890123456789012E /* MenuBarManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1234567890123456789012F /* MenuBarManager.swift */; };
 		A1234567890123456789013A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1234567890123456789013B /* Assets.xcassets */; };
 		A1234567890123456789013E /* CustomApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1234567890123456789013F /* CustomApplication.swift */; };
+		A1234567890123456789014A /* MenuBarAppManagerWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1234567890123456789014B /* MenuBarAppManagerWindow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A1234567890123456789013B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1234567890123456789013D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1234567890123456789013F /* CustomApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomApplication.swift; sourceTree = "<group>"; };
+		A1234567890123456789014B /* MenuBarAppManagerWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarAppManagerWindow.swift; sourceTree = "<group>"; };
 		A123456789012345678901AA /* MenuBarManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MenuBarManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -42,6 +44,7 @@
 				A1234567890123456789012D /* MenuBarIcon.swift */,
 				A1234567890123456789012F /* MenuBarManager.swift */,
 				A1234567890123456789013F /* CustomApplication.swift */,
+				A1234567890123456789014B /* MenuBarAppManagerWindow.swift */,
 				A1234567890123456789013B /* Assets.xcassets */,
 				A1234567890123456789013D /* Info.plist */,
 			);
@@ -137,6 +140,7 @@
 				A1234567890123456789012C /* MenuBarIcon.swift in Sources */,
 				A1234567890123456789012E /* MenuBarManager.swift in Sources */,
 				A1234567890123456789013E /* CustomApplication.swift in Sources */,
+				A1234567890123456789014A /* MenuBarAppManagerWindow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
